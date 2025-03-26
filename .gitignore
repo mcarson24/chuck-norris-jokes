@@ -1,3 +1,6 @@
 /vendor
+/build
+/html
 .idea/php.xml
 .phpunit.result.cache
+.DS_Store
