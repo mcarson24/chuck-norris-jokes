@@ -1,7 +1,7 @@
 {
     "name": "mcarson24/chuck-norris-jokes",
     "description": "Generate random Chuck Norris jokes.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
