@@ -6,11 +6,11 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mcarson24\\ChuckNorrisJokes\\": "src/"
+            "MCarson24\\ChuckNorrisJokes\\": "src/"
         }
     },
     "autoload-dev": {
-        "Mcarson\\ChuckNorrisJokes\\Tests\\": "tests/"
+        "MCarson\\ChuckNorrisJokes\\Tests\\": "tests/"
     },
     "authors": [
         {

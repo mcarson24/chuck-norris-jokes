@@ -18,7 +18,7 @@ class ComposerStaticInit8ea396f863199a5a0d401022a64ca925
         ),
         'M' => 
         array (
-            'Mcarson24\\ChuckNorrisJokes\\' => 27,
+            'MCarson24\\ChuckNorrisJokes\\' => 27,
         ),
         'D' => 
         array (
@@ -31,7 +31,7 @@ class ComposerStaticInit8ea396f863199a5a0d401022a64ca925
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'Mcarson24\\ChuckNorrisJokes\\' => 
+        'MCarson24\\ChuckNorrisJokes\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
